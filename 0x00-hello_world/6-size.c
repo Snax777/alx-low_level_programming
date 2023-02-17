@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * Size does not matter
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
