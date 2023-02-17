@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /* Running a C file */
 int main()
 {
